@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c114d2638ea1a364e82e75115c042fe1, type: 3}
+  m_Name: GameLevelData
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: Characters
+    boardData:
+    - {fileID: 11400000, guid: ecba909bca7814543bb3315a52965b84, type: 2}
+    - {fileID: 11400000, guid: 86313d88e7867f747bb905c3704a53d7, type: 2}
+    - {fileID: 11400000, guid: 8006e0ad063d4924db97987b6651a08d, type: 2}
+  - categoryName: MagicalObjects
+    boardData:
+    - {fileID: 11400000, guid: 868ee9e45a62b3c4c854cb2903392ff9, type: 2}
+    - {fileID: 11400000, guid: 2cd501011a342a64bab8060a8500e034, type: 2}
+  - categoryName: Sortileges
+    boardData:
+    - {fileID: 11400000, guid: 6538d376c44d5244882d5ea73688a00b, type: 2}

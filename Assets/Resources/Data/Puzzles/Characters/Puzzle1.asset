@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e218de507f77d4db263806e9036f08, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 5
+  columns: 10
+  rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - G
+    - I
+    - N
+    - N
+    - Y
+    - V
+    - V
+    - O
+    - R
+    - L
+  - Size: 10
+    Row:
+    - J
+    - H
+    - E
+    - R
+    - M
+    - I
+    - O
+    - N
+    - E
+    - U
+  - Size: 10
+    Row:
+    - Y
+    - A
+    - E
+    - R
+    - X
+    - E
+    - X
+    - S
+    - Y
+    - P
+  - Size: 10
+    Row:
+    - L
+    - R
+    - D
+    - I
+    - Z
+    - O
+    - K
+    - O
+    - R
+    - I
+  - Size: 10
+    Row:
+    - U
+    - R
+    - O
+    - G
+    - O
+    - Y
+    - H
+    - J
+    - O
+    - N
+  - Size: 10
+    Row:
+    - N
+    - Y
+    - E
+    - N
+    - V
+    - E
+    - Z
+    - U
+    - G
+    - I
+  - Size: 10
+    Row:
+    - A
+    - Q
+    - B
+    - H
+    - X
+    - R
+    - B
+    - K
+    - U
+    - B
+  - Size: 10
+    Row:
+    - D
+    - F
+    - L
+    - Y
+    - O
+    - M
+    - O
+    - B
+    - E
+    - L
+  - Size: 10
+    Row:
+    - I
+    - I
+    - C
+    - N
+    - P
+    - U
+    - E
+    - G
+    - G
+    - Q
+  - Size: 10
+    Row:
+    - D
+    - U
+    - M
+    - B
+    - L
+    - E
+    - D
+    - O
+    - R
+    - E
+  SearchWords:
+  - found: 0
+    word: HARRY
+  - found: 0
+    word: GINNY
+  - found: 0
+    word: HERMIONE
+  - found: 0
+    word: LUPIN
+  - found: 0
+    word: ROGUE
+  - found: 0
+    word: DUMBLEDORE

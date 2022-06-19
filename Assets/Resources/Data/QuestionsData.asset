@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ec735606d0dcd48ba04d01cfd5ba9c, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 352a3b785dd34f7458cdcdfa19ff64ac, type: 3}
+    answer: Harry
+  - questionImage: {fileID: 21300000, guid: b2fb5a2a426a4a148bee159cb36a5ccc, type: 3}
+    answer: Ron
+  - questionImage: {fileID: 21300000, guid: ce010ef11fb2a984896780262215519f, type: 3}
+    answer: Neville
+  - questionImage: {fileID: 21300000, guid: a5e28edf2146c43489d933c047910af6, type: 3}
+    answer: Malfoy
+  - questionImage: {fileID: 21300000, guid: e131d2742ba9a184abc78c3440b26586, type: 3}
+    answer: Luna
+  - questionImage: {fileID: 21300000, guid: f122ef1b14cdd824080503def1ef0692, type: 3}
+    answer: Hermione

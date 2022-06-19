@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e218de507f77d4db263806e9036f08, type: 3}
+  m_Name: Puzzle3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 5
+  columns: 10
+  rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - F
+    - C
+    - S
+    - D
+    - S
+    - J
+    - F
+    - W
+    - E
+    - S
+  - Size: 10
+    Row:
+    - G
+    - R
+    - U
+    - B
+    - E
+    - U
+    - S
+    - I
+    - P
+    - I
+  - Size: 10
+    Row:
+    - D
+    - Q
+    - E
+    - S
+    - F
+    - M
+    - E
+    - L
+    - Y
+    - R
+  - Size: 10
+    Row:
+    - O
+    - V
+    - O
+    - D
+    - M
+    - Z
+    - V
+    - Z
+    - N
+    - I
+  - Size: 10
+    Row:
+    - L
+    - Z
+    - Y
+    - U
+    - R
+    - R
+    - E
+    - C
+    - K
+    - U
+  - Size: 10
+    Row:
+    - O
+    - R
+    - C
+    - N
+    - O
+    - C
+    - R
+    - Z
+    - Y
+    - S
+  - Size: 10
+    Row:
+    - R
+    - Y
+    - R
+    - A
+    - H
+    - W
+    - U
+    - A
+    - T
+    - Q
+  - Size: 10
+    Row:
+    - E
+    - Z
+    - N
+    - P
+    - W
+    - Q
+    - S
+    - U
+    - C
+    - O
+  - Size: 10
+    Row:
+    - S
+    - U
+    - F
+    - Z
+    - M
+    - T
+    - Q
+    - N
+    - A
+    - G
+  - Size: 10
+    Row:
+    - L
+    - R
+    - I
+    - J
+    - W
+    - E
+    - R
+    - A
+    - H
+    - Z
+  SearchWords:
+  - found: 0
+    word: FRED
+  - found: 0
+    word: RUBEUS
+  - found: 0
+    word: SEVERUS
+  - found: 0
+    word: SIRIUS
+  - found: 0
+    word: DOLORES
+  - found: 0
+    word: LUNA

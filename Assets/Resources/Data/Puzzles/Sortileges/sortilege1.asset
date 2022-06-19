@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e218de507f77d4db263806e9036f08, type: 3}
+  m_Name: sortilege1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  columns: 10
+  rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - E
+    - D
+    - U
+    - C
+    - T
+    - O
+    - U
+    - C
+    - E
+  - Size: 10
+    Row:
+    - A
+    - R
+    - X
+    - K
+    - L
+    - P
+    - G
+    - J
+    - O
+    - P
+  - Size: 10
+    Row:
+    - C
+    - B
+    - J
+    - W
+    - U
+    - W
+    - J
+    - Z
+    - N
+    - Y
+  - Size: 10
+    Row:
+    - C
+    - C
+    - Q
+    - T
+    - M
+    - D
+    - T
+    - N
+    - F
+    - A
+  - Size: 10
+    Row:
+    - I
+    - O
+    - J
+    - I
+    - O
+    - T
+    - K
+    - K
+    - U
+    - C
+  - Size: 10
+    Row:
+    - O
+    - T
+    - I
+    - Y
+    - S
+    - D
+    - W
+    - D
+    - N
+    - R
+  - Size: 10
+    Row:
+    - N
+    - H
+    - E
+    - C
+    - O
+    - S
+    - P
+    - X
+    - D
+    - U
+  - Size: 10
+    Row:
+    - D
+    - E
+    - K
+    - R
+    - E
+    - D
+    - U
+    - C
+    - O
+    - C
+  - Size: 10
+    Row:
+    - O
+    - M
+    - T
+    - C
+    - V
+    - A
+    - E
+    - W
+    - S
+    - I
+  - Size: 10
+    Row:
+    - S
+    - O
+    - N
+    - O
+    - R
+    - O
+    - U
+    - S
+    - M
+    - O
+  SearchWords:
+  - found: 1
+    word: ACCIO
+  - found: 1
+    word: SONOROUS
+  - found: 1
+    word: LUMOS
+  - found: 1
+    word: CRUCIO
+  - found: 1
+    word: REDUCTO
+  - found: 1
+    word: CONFUNDOS

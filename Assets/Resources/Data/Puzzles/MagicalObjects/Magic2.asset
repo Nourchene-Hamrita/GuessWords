@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e218de507f77d4db263806e9036f08, type: 3}
+  m_Name: Magic2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  columns: 11
+  rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - E
+    - N
+    - O
+    - P
+    - E
+    - N
+    - O
+    - M
+    - S
+  - Size: 10
+    Row:
+    - E
+    - E
+    - E
+    - B
+    - K
+    - D
+    - U
+    - A
+    - A
+    - N
+  - Size: 10
+    Row:
+    - V
+    - Y
+    - V
+    - E
+    - I
+    - L
+    - P
+    - P
+    - Y
+    - E
+  - Size: 10
+    Row:
+    - E
+    - K
+    - F
+    - E
+    - W
+    - U
+    - G
+    - S
+    - G
+    - A
+  - Size: 10
+    Row:
+    - A
+    - Z
+    - O
+    - N
+    - A
+    - D
+    - R
+    - T
+    - Q
+    - K
+  - Size: 10
+    Row:
+    - L
+    - D
+    - E
+    - S
+    - Z
+    - L
+    - A
+    - O
+    - O
+    - O
+  - Size: 10
+    Row:
+    - E
+    - P
+    - G
+    - M
+    - C
+    - X
+    - E
+    - N
+    - P
+    - S
+  - Size: 10
+    Row:
+    - R
+    - C
+    - L
+    - O
+    - A
+    - I
+    - O
+    - E
+    - B
+    - C
+  - Size: 10
+    Row:
+    - A
+    - Y
+    - A
+    - L
+    - G
+    - P
+    - Z
+    - A
+    - H
+    - O
+  - Size: 10
+    Row:
+    - S
+    - S
+    - S
+    - C
+    - E
+    - D
+    - V
+    - E
+    - A
+    - P
+  - Size: 10
+    Row:
+    - S
+    - T
+    - S
+    - N
+    - E
+    - V
+    - E
+    - I
+    - L
+    - E
+  SearchWords:
+  - found: 1
+    word: REVEALER
+  - found: 1
+    word: VEIL
+  - found: 1
+    word: STONE
+  - found: 1
+    word: FOEGLASS
+  - found: 1
+    word: MAP
+  - found: 1
+    word: SNEAKOSCOPE

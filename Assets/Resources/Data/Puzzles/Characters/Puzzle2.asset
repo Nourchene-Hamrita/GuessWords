@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e218de507f77d4db263806e9036f08, type: 3}
+  m_Name: Puzzle2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 5
+  columns: 10
+  rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - G
+    - E
+    - O
+    - R
+    - G
+    - E
+    - F
+    - X
+    - Q
+  - Size: 10
+    Row:
+    - A
+    - L
+    - B
+    - U
+    - S
+    - P
+    - F
+    - D
+    - N
+    - L
+  - Size: 10
+    Row:
+    - I
+    - N
+    - L
+    - C
+    - C
+    - D
+    - Q
+    - O
+    - E
+    - Q
+  - Size: 10
+    Row:
+    - Z
+    - A
+    - D
+    - M
+    - T
+    - O
+    - H
+    - J
+    - F
+    - E
+  - Size: 10
+    Row:
+    - A
+    - G
+    - T
+    - U
+    - M
+    - B
+    - R
+    - I
+    - L
+    - G
+  - Size: 10
+    Row:
+    - P
+    - X
+    - K
+    - K
+    - W
+    - B
+    - D
+    - R
+    - Z
+    - I
+  - Size: 10
+    Row:
+    - M
+    - A
+    - L
+    - F
+    - O
+    - Y
+    - O
+    - A
+    - F
+    - S
+  - Size: 10
+    Row:
+    - J
+    - H
+    - B
+    - Y
+    - N
+    - N
+    - R
+    - E
+    - K
+    - S
+  - Size: 10
+    Row:
+    - Y
+    - N
+    - V
+    - C
+    - E
+    - F
+    - C
+    - I
+    - V
+    - Z
+  - Size: 10
+    Row:
+    - F
+    - P
+    - N
+    - E
+    - V
+    - I
+    - L
+    - L
+    - E
+    - E
+  SearchWords:
+  - found: 0
+    word: ALBUS
+  - found: 0
+    word: DOBBY
+  - found: 0
+    word: MALFOY
+  - found: 0
+    word: GEORGE
+  - found: 0
+    word: NEVILLE
+  - found: 0
+    word: RON
